@@ -1,0 +1,29 @@
+# Built files
+build/
+*/build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Gradle cache
+.gradle/
+
+# Local machine settings (SDK path, etc.)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.apk
+*.aab
+*.ap_
+*.hprof
+
+# Signing keys
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

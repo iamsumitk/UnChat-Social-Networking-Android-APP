@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id = "@+id/chat_group"
+        android:title="Group Chat"/>
+
+    <item
+        android:id = "@+id/chat_Personal"
+        android:title="Message"/>
+
+
+
+
+
+</menu>
